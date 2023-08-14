@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nathan Kong</title>
+    <link>https://carrizo93.github.io/</link>
+    <description>Recent content in Home on Nathan Kong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Nathan Kong</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carrizo93.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current bangers</title>
+      <link>https://carrizo93.github.io/lists/current-bangers/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/current-bangers/</guid>
+      <description>My current top songs.</description>
+      
+    </item>
+    
+    <item>
+      <title>How I went to TWICE Toronto Day 2</title>
+      <link>https://carrizo93.github.io/blog/how-i-went-to-twice-toronto-day-2/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/blog/how-i-went-to-twice-toronto-day-2/</guid>
+      <description>A recap of the wild 36 hours I had leading up to the TWICE concert.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/blog/how-i-went-to-twice-toronto-day-2/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>K-pop girl group song tier list</title>
+      <link>https://carrizo93.github.io/lists/k-pop-girl-group-song-tier-list/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/k-pop-girl-group-song-tier-list/</guid>
+      <description>My tier list of girl group title tracks.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/lists/k-pop-girl-group-song-tier-list/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Rap and hip-hop collection</title>
+      <link>https://carrizo93.github.io/lists/rap-hip-hop-collection/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/rap-hip-hop-collection/</guid>
+      <description>A collection of my favourite rap songs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/lists/rap-hip-hop-collection/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://carrizo93.github.io/about/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/about/</guid>
+      <description>All about Nathan Kong.</description>
+      
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://carrizo93.github.io/credits/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/credits/</guid>
+      <description>A page dedicated to those who&amp;rsquo;s work I&amp;rsquo;ve used on this website.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

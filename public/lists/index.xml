@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on Nathan Kong</title>
+    <link>https://carrizo93.github.io/lists/</link>
+    <description>Recent content in Lists on Nathan Kong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Nathan Kong</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carrizo93.github.io/lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current bangers</title>
+      <link>https://carrizo93.github.io/lists/current-bangers/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/current-bangers/</guid>
+      <description>My current top songs.</description>
+      
+    </item>
+    
+    <item>
+      <title>K-pop girl group song tier list</title>
+      <link>https://carrizo93.github.io/lists/k-pop-girl-group-song-tier-list/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/k-pop-girl-group-song-tier-list/</guid>
+      <description>My tier list of girl group title tracks.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/lists/k-pop-girl-group-song-tier-list/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Rap and hip-hop collection</title>
+      <link>https://carrizo93.github.io/lists/rap-hip-hop-collection/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/rap-hip-hop-collection/</guid>
+      <description>A collection of my favourite rap songs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/lists/rap-hip-hop-collection/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

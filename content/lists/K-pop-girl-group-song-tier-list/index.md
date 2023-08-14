@@ -15,11 +15,9 @@ showComments: false
 showRecent: false
 ---
 
-My tier list of K-pop girl group title tracks. This tier list is just for all the songs I like; if a song is not mentioned, then I don't find it worthy of a spot on this tier list. I like several unmentioned songs (i.e. Queencard), but they pale in comparison to the songs mentioned. Songs are not ordered within each tier.
+My tier list of K-pop girl group title tracks. This tier list is just for all the songs I like; if a song is not mentioned, then I don't find it worthy of a spot on this tier list. I like several unmentioned songs (i.e. Red Flavor), but they pale in comparison to the songs mentioned. Songs are not ordered within each tier.
 
 A reminder that this is just my opinion.
-
-Last updated: 8/8/2023
 
 <br />
 
@@ -85,4 +83,6 @@ Good songs that I wouldn't skip if they came on shuffle.
 <!--yes or yes -->{{< spotify type="track" id="184XtKkzoAl83quIarUAJP" width="500" height="100" >}}
 <!-- why not-->{{< spotify type="track" id="6yGQ86UppYULzTCxAWgwVN" width="500" height="100" >}}
 <!-- smiley-->{{< spotify type="track" id="4zCIxSnVWpGNghERX4uWZF" width="500" height="100" >}}
+<!-- queencard-->{{< spotify type="track" id="4uOBL4DDWWVx4RhYKlPbPC" width="500" height="100" >}}
+<!-- pop!-->{{< spotify type="track" id="3lOMJTQTd6J34faYwASc33" width="500" height="100" >}}
 
