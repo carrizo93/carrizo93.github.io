@@ -1,7 +1,7 @@
 ---
 title: "How I went to TWICE Toronto Day 2"
-date: 2023-08-06T02:04:46-04:00
-draft: true
+date: 2023-08-14
+draft: false
 
 summary: "A recap of the wild 36 hours I had leading up to the TWICE concert."
 showSummary: true

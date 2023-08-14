@@ -1,7 +1,7 @@
 ---
 title: "Current bangers"
-date: 2023-08-11
-draft: true
+date: 2023-08-14
+draft: false
 
 showDate: true
 showWordCount: false
