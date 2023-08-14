@@ -14,8 +14,7 @@ showRecent: false
 showPagination: false
 ---
 
-I was inspired to build this website by my longtime friend Alex Zhu, a SE '27 student at the University of Waterloo. Check out his website [here](https://probablyalexzhu.github.io/), as well as the GitHub for it below.
-{{< github repo="probablyalexzhu/probablyalexzhu.github.io" >}}
+I was inspired to build this website by my longtime friend Alex Zhu, a SE '27 student at the University of Waterloo. Check out his website [here](https://probablyalexzhu.github.io/)!
 
 <br />
 

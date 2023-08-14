@@ -7,7 +7,7 @@ showReadingTime: false
 
 summary: "All about Nathan Kong."
 showSummary: true
-showAuthor: true
+showAuthor: false
 showTableOfContents: false
 showComments: false
 showRecent: false
