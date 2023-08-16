@@ -33,6 +33,7 @@ Songs that distinguish themselves from the rest of K-pop, where no other group c
 <!-- dice -->{{< spotify type="track" id="1QpwvWMQGdOgA8MXXfgs4H" width="500" height="100" >}} 
 <!-- ssots -->{{< spotify type="track" id="7G6WuVZuTbF6JcnA9wOvsD" width="500" height="100" >}} 
 <!-- stereotype -->{{< spotify type="track" id="2bZIDMpzVooosmPHn0tHnd" width="500" height="100" >}} 
+<!-- oh my god -->{{< spotify type="track" id="2DmRXiyn03tOqKgEJXlaiJ" width="500" height="100" >}} 
 <!-- butterfly-->{{< spotify type="track" id="6wNKKoUQfLPmch7cqSFytV" width="500" height="100" >}}
 <!-- so what-->{{< spotify type="track" id="1ry2mTVmAJHbNLzl5qww5v" width="500" height="100" >}} Disclaimer: I do not stream LOONA songs. I have them downloaded. 
 
