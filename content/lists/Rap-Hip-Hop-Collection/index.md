@@ -16,8 +16,6 @@ showRecent: false
 ---
 A collection of my favourite rap songs, in an order of when I first listened to them.
 
-Last updated: 8/8/2023
-
 <!-- baby pluto --> {{< spotify type="track" id="7hav1MHURQf5SAoPk0egqh" width="500" height="100" >}} 
 <!-- soul food ii -->{{< spotify type="track" id="7e0nXDIIa6hFqI4HmuanLP" width="500" height="100" >}}
 <!-- long time - intro -->{{< spotify type="track" id="4IO2X2YoXoUMv0M2rwomLC" width="500" height="100" >}}

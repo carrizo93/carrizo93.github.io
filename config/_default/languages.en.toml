@@ -9,8 +9,8 @@ title = "Nathan Kong"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logocroppedsm.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  secondaryLogo = "img/logocircle.png"
+  description = "Nathan Kong Personal Website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]

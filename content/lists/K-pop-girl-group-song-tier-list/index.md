@@ -15,11 +15,9 @@ showComments: false
 showRecent: false
 ---
 
-My tier list of K-pop girl group title tracks. This tier list is just for all the songs I like; if a song is not mentioned, then I don't find it worthy of a spot on this tier list. I like several unmentioned songs (i.e. Queencard), but they pale in comparison to the songs mentioned. Songs are not ordered within each tier.
+My tier list of K-pop girl group title tracks. This tier list is just for all the songs I like; if a song is not mentioned, then I don't find it worthy of a spot on this tier list. I like several unmentioned songs (i.e. Red Flavor), but they pale in comparison to the songs mentioned. Songs are not ordered within each tier.
 
 A reminder that this is just my opinion.
-
-Last updated: 8/8/2023
 
 <br />
 
@@ -35,6 +33,7 @@ Songs that distinguish themselves from the rest of K-pop, where no other group c
 <!-- dice -->{{< spotify type="track" id="1QpwvWMQGdOgA8MXXfgs4H" width="500" height="100" >}} 
 <!-- ssots -->{{< spotify type="track" id="7G6WuVZuTbF6JcnA9wOvsD" width="500" height="100" >}} 
 <!-- stereotype -->{{< spotify type="track" id="2bZIDMpzVooosmPHn0tHnd" width="500" height="100" >}} 
+<!-- oh my god -->{{< spotify type="track" id="2DmRXiyn03tOqKgEJXlaiJ" width="500" height="100" >}} 
 <!-- butterfly-->{{< spotify type="track" id="6wNKKoUQfLPmch7cqSFytV" width="500" height="100" >}}
 <!-- so what-->{{< spotify type="track" id="1ry2mTVmAJHbNLzl5qww5v" width="500" height="100" >}} Disclaimer: I do not stream LOONA songs. I have them downloaded. 
 
@@ -85,4 +84,6 @@ Good songs that I wouldn't skip if they came on shuffle.
 <!--yes or yes -->{{< spotify type="track" id="184XtKkzoAl83quIarUAJP" width="500" height="100" >}}
 <!-- why not-->{{< spotify type="track" id="6yGQ86UppYULzTCxAWgwVN" width="500" height="100" >}}
 <!-- smiley-->{{< spotify type="track" id="4zCIxSnVWpGNghERX4uWZF" width="500" height="100" >}}
+<!-- queencard-->{{< spotify type="track" id="4uOBL4DDWWVx4RhYKlPbPC" width="500" height="100" >}}
+<!-- pop!-->{{< spotify type="track" id="3lOMJTQTd6J34faYwASc33" width="500" height="100" >}}
 

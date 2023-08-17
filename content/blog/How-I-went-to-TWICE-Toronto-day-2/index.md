@@ -7,7 +7,7 @@ summary: "A recap of the wild 36 hours I had leading up to the TWICE concert."
 showSummary: true
 ---
 
-If you told 12-year-old Nathan that six years in the future, he would be screaming the lyrics of TWICE’s Likey live at their concert, he would’ve probably called you crazy + stupid and cussed you out. And honestly, I don't even blame him, because six months ago I would’ve answered the same.
+If you told 12-year-old Nathan that six years in the future, he would be screaming the lyrics of TWICE’s Likey live at their concert, he probably would’ve called you crazy + stupid and cussed you out. And honestly, I don't even blame him, because six months ago I would’ve answered the same.
 
 ![Pre-concert views](feature.jpg "The view from the 100-level before the concert. They were not my seats.")
 
@@ -60,7 +60,7 @@ We arrived at Scotiabank Arena around noon. One of the unintentional perks of jo
 
 ![An unexpected but expected guest](mrlityler.jpg "A teacher at my high school, Mr. Li, makes a surprise appearance. Used with permission.")
 
-The time is now 2pm, with the concert starting at 7:30pm. Five hours passed in a mix of sitting in Union Station and charging our phones, eating food, and watching the play dance that was being hosted. Even though we didn’t know half the songs (we’re 4th gen babies 😥), it was still enjoyable to watch Toronto’s K-pop community come out and show off their dance skills. My favourite was a performance of Nayeon’s POP! by two young performers.
+The time is now 2pm, with the concert starting at 7:30pm. Five hours passed in a mix of sitting in Union Station and charging our phones, eating food, and watching the random play dance that was being hosted. Even though we didn’t know half the songs (we’re 4th gen babies 😥), it was still enjoyable to watch Toronto’s K-pop community come out and show off their dance skills. My favourite was a performance of Nayeon’s POP! by two young performers.
 
 {{< video src="/posts/How-I-went-to-TWICE-Toronto-day-2/popcover.mp4" type="video/mp4" preload="auto" >}}
 
