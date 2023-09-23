@@ -19,7 +19,7 @@ Some songs that I'm currently bumping daily.
 <!-- endless fashion-->{{< spotify type="track" id="41bmnQZoDMQdDh5zyomtW7?si=24c3241b03eb453d" width="500" height="100" >}} 
 <!-- meltdown-->{{< spotify type="track" id="67nepsnrcZkowTxMWigSbb?si=6164c85fb5864b90" width="500" height="100" >}} 
 <!-- bubble-->{{< spotify type="track" id="4P5ozkI1bxiGxA5rZ27jlO?si=97c44cd41e4f4dd0" width="500" height="100" >}} 
-<!-- killin me good-->{{< spotify type="track" id="4Cyf87ul1le0xTWRFBoYd7?si=8cc2774a082940b0" width="500" height="100" >}} 
+<!-- glitch-->{{< spotify type="track" id="3Xzyta15TXF33ggEjA5FxN?si=82515d3ace7a4d38" width="500" height="100" >}} 
 <!-- closer-->{{< spotify type="track" id="0aUNIY0nITYfGH1ooJBRvR?si=24c47d0084a04064" width="500" height="100" >}} 
 <!-- fast forward-->{{< spotify type="track" id="7jzOZuWgZ5gaMet9V5Ix1d?si=dedd33d9d75d44c0" width="500" height="100" >}} 
 <!-- new dance-->{{< spotify type="track" id="6Pjzy9avwlVr4UAbxkQQmh?si=d8f54f38186840e7" width="500" height="100" >}} 
