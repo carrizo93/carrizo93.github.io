@@ -5,7 +5,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 
-summary: "A page dedicated to those who's work I've used on this website."
+summary: "A page dedicated to those whose work I use on this website."
 showSummary: true
 showAuthor: false
 showTableOfContents: false

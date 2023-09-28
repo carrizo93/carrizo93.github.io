@@ -1,5 +1,5 @@
 ---
 title: Blogs
-summary: "All of my blogs, with recent ones at the top. " 
+summary: "Where I talk about my experiences and share my thoughts." 
 ---
-All of my blogs, with recent ones at the top. 
+All of my blogs! This is where I talk about my experiences and share my thoughts.
