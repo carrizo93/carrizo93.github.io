@@ -1,6 +1,6 @@
 ---
 title: "Current bangers"
-date: 2023-08-28
+date: 2023-10-16
 draft: false
 
 showDate: true
