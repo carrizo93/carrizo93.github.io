@@ -14,15 +14,15 @@ showTableOfContents: false
 showComments: false
 showRecent: false
 ---
-Some songs that I'm currently bumping daily. 
+Midterm season = house/edm study music.
 
-<!-- endless fashion-->{{< spotify type="track" id="41bmnQZoDMQdDh5zyomtW7?si=24c3241b03eb453d" width="500" height="100" >}} 
-<!-- meltdown-->{{< spotify type="track" id="67nepsnrcZkowTxMWigSbb?si=6164c85fb5864b90" width="500" height="100" >}} 
-<!-- bubble-->{{< spotify type="track" id="4P5ozkI1bxiGxA5rZ27jlO?si=97c44cd41e4f4dd0" width="500" height="100" >}} 
+<!-- leave me like this-->{{< spotify type="track" id="6NRvZuFXn2ixp8YdzUvG5n?si=d3abc4a1ef834a5f" width="500" height="100" >}} 
+<!--what a life-->{{< spotify type="track" id="587xXusqiMW9gSXkNK8Zxf?si=438ab4b8a2fb433c" width="500" height="100" >}} 
+<!-- war-->{{< spotify type="track" id="0JhonNQL2ixH1JcsgEj4Hn?si=0098ab40bc8b490c" width="500" height="100" >}} 
+<!-- fps-->{{< spotify type="track" id="7aqfrAY2p9BUSiupwk3svU?si=1b118345d8af41b8" width="500" height="100" >}} 
+<!-- 8am in charlotte-->{{< spotify type="track" id="0w3Mfe4PIVjuFjJbe3OlYv?si=cb2dae0f5f91429f" width="500" height="100" >}} 
 <!-- glitch-->{{< spotify type="track" id="3Xzyta15TXF33ggEjA5FxN?si=82515d3ace7a4d38" width="500" height="100" >}} 
-<!-- closer-->{{< spotify type="track" id="0aUNIY0nITYfGH1ooJBRvR?si=24c47d0084a04064" width="500" height="100" >}} 
-<!-- fast forward-->{{< spotify type="track" id="7jzOZuWgZ5gaMet9V5Ix1d?si=dedd33d9d75d44c0" width="500" height="100" >}} 
+<!-- puppet show-->{{< spotify type="track" id"=7sDkXyDikXhpRz715MdiEp?si=f67dc7061e6149e5" width="500" height="100" >}} 
 <!-- new dance-->{{< spotify type="track" id="6Pjzy9avwlVr4UAbxkQQmh?si=d8f54f38186840e7" width="500" height="100" >}} 
 <!-- glassy-->{{< spotify type="track" id="6PFfx4sEBWPuFqFB0mgX1D?si=1cf4a8a810184ee1" width="500" height="100" >}} 
-<!-- underwater-->{{< spotify type="track" id="5bdmWBCaiaHk2HbqKOXLyJ?si=2682e31ed52c47af" width="500" height="100" >}} 
-<!-- seoul sonyo sound-->{{< spotify type="track" id="0OF5cogdavih7UNqaRiKtN?si=8daa7f866e294e60" width="500" height="100" >}} 
+<!-- girls capitalism-->{{< spotify type="track" id="2ivVS2ageitCQqnmmMaWoH?si=330369e838a74297" width="500" height="100" >}} 
