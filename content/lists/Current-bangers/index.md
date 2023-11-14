@@ -1,6 +1,6 @@
 ---
 title: "Current bangers"
-date: 2023-10-16
+date: 2023-11-14
 draft: false
 
 showDate: true
@@ -22,7 +22,7 @@ Why are finals in a month.
 <!-- lifes a mess-->{{< spotify type="track" id="4h5N4KyWZMtpeH9vhXSXjd?si=8c7f15f149104f18" width="500" height="100" >}} 
 <!-- soul food II-->{{< spotify type="track" id="7e0nXDIIa6hFqI4HmuanLP?si=68d39d6b56a04b6a" width="500" height="100" >}} 
 <!-- hot thugger-->{{< spotify type="track" id="4ea9w8c4ROqiZpJVhfBA3m?si=a9991ca40a9a4192" width="500" height="100" >}} 
-<!-- agassy-->{{< spotify type="track" id="track/2DkO9y7DB9S9nBg5u0VDoW?si=c59d6e1bfd1b4a0d" width="500" height="100" >}} 
+<!-- agassy-->{{< spotify type="track" id="2DkO9y7DB9S9nBg5u0VDoW?si=c59d6e1bfd1b4a0d" width="500" height="100" >}} 
 <!--4 walls-->{{< spotify type="track" id="2YkjXEab4USTV9uuAgC90E?si=3c4cd4105c084b32" width="500" height="100" >}} 
 <!-- stay tonight-->{{< spotify type="track" id="7Cn6R7YB4EjQkfci9DdceG?si=a736b03f31864180" width="500" height="100" >}} 
 <!-- off the record-->{{< spotify type="track" id="6TNx6kHZeVDByUNMVxkAfa?si=ee374beacee24ecc" width="500" height="100" >}} 
