@@ -14,16 +14,20 @@ showTableOfContents: false
 showComments: false
 showRecent: false
 ---
-Midterm season = house/edm study music.
+Why are finals in a month.
 
-<!-- leave me like this-->{{< spotify type="track" id="6NRvZuFXn2ixp8YdzUvG5n?si=d3abc4a1ef834a5f" width="500" height="100" >}} 
-<!--what a life-->{{< spotify type="track" id="587xXusqiMW9gSXkNK8Zxf?si=438ab4b8a2fb433c" width="500" height="100" >}} 
-<!-- war-->{{< spotify type="track" id="0JhonNQL2ixH1JcsgEj4Hn?si=0098ab40bc8b490c" width="500" height="100" >}} 
+<!-- clarity-->{{< spotify type="track" id="60wwxj6Dd9NJlirf84wr2c?si=ab89bd0e0249466a" width="500" height="100" >}} 
+<!-- idgaf-->{{< spotify type="track" id="2YSzYUF3jWqb9YP9VXmpjE?si=19d610a7986b4ffd" width="500" height="100" >}} 
 <!-- fps-->{{< spotify type="track" id="7aqfrAY2p9BUSiupwk3svU?si=1b118345d8af41b8" width="500" height="100" >}} 
-<!-- 8am in charlotte-->{{< spotify type="track" id="0w3Mfe4PIVjuFjJbe3OlYv?si=cb2dae0f5f91429f" width="500" height="100" >}} 
-<!-- blessing in disguise-->{{< spotify type="track" id="3d9qrCD7YR4dFTY0xIP8yq?si=3f2caefd724c4766" width="500" height="100" >}} 
-<!-- puppet show-->{{< spotify type="track" id="7sDkXyDikXhpRz715MdiEp?si=f67dc7061e6149e5" width="500" height="100" >}} 
-<!-- new dance-->{{< spotify type="track" id="6Pjzy9avwlVr4UAbxkQQmh?si=d8f54f38186840e7" width="500" height="100" >}} 
-<!-- glassy-->{{< spotify type="track" id="6PFfx4sEBWPuFqFB0mgX1D?si=1cf4a8a810184ee1" width="500" height="100" >}} 
+<!-- lifes a mess-->{{< spotify type="track" id="4h5N4KyWZMtpeH9vhXSXjd?si=8c7f15f149104f18" width="500" height="100" >}} 
+<!-- soul food II-->{{< spotify type="track" id="7e0nXDIIa6hFqI4HmuanLP?si=68d39d6b56a04b6a" width="500" height="100" >}} 
+<!-- hot thugger-->{{< spotify type="track" id="4ea9w8c4ROqiZpJVhfBA3m?si=a9991ca40a9a4192" width="500" height="100" >}} 
+<!-- agassy-->{{< spotify type="track" id="track/2DkO9y7DB9S9nBg5u0VDoW?si=c59d6e1bfd1b4a0d" width="500" height="100" >}} 
+<!--4 walls-->{{< spotify type="track" id="2YkjXEab4USTV9uuAgC90E?si=3c4cd4105c084b32" width="500" height="100" >}} 
+<!-- stay tonight-->{{< spotify type="track" id="7Cn6R7YB4EjQkfci9DdceG?si=a736b03f31864180" width="500" height="100" >}} 
+<!-- off the record-->{{< spotify type="track" id="6TNx6kHZeVDByUNMVxkAfa?si=ee374beacee24ecc" width="500" height="100" >}} 
 <!-- girls capitalism-->{{< spotify type="track" id="2ivVS2ageitCQqnmmMaWoH?si=330369e838a74297" width="500" height="100" >}} 
-<!-- glitch-->{{< spotify type="track" id="3Xzyta15TXF33ggEjA5FxN?si=82515d3ace7a4d38" width="500" height="100" >}} 
+<!-- colorful-->{{< spotify type="track" id="3eTsQnDR30FXtkyOYFazC7?si=a7b1f1bf0145427e" width="500" height="100" >}} 
+<!-- tt-->{{< spotify type="track" id="0x3fUdLjlYlO35v979kI3q?si=77d4eedd7df146bb" width="500" height="100" >}} 
+<!-- perfect night-->{{< spotify type="track" id="74X2u8JMVooG2QbjRxXwR8?si=990bcbf18470409b" width="500" height="100" >}} 
+<!-- guardian-->{{< spotify type="track" id="1hXpqrmqmlYMfpF23fb8mK?si=926bce694e4341ce" width="500" height="100" >}} 
