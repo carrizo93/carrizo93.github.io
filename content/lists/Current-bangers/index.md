@@ -14,20 +14,19 @@ showTableOfContents: false
 showComments: false
 showRecent: false
 ---
-Why are finals in a month.
+I see the light at the end of the tunnel (last exam in 2 days).
 
-<!-- clarity-->{{< spotify type="track" id="60wwxj6Dd9NJlirf84wr2c?si=ab89bd0e0249466a" width="500" height="100" >}} 
-<!-- idgaf-->{{< spotify type="track" id="2YSzYUF3jWqb9YP9VXmpjE?si=19d610a7986b4ffd" width="500" height="100" >}} 
 <!-- fps-->{{< spotify type="track" id="7aqfrAY2p9BUSiupwk3svU?si=1b118345d8af41b8" width="500" height="100" >}} 
-<!-- lifes a mess-->{{< spotify type="track" id="4h5N4KyWZMtpeH9vhXSXjd?si=8c7f15f149104f18" width="500" height="100" >}} 
-<!-- soul food II-->{{< spotify type="track" id="7e0nXDIIa6hFqI4HmuanLP?si=68d39d6b56a04b6a" width="500" height="100" >}} 
-<!-- hot thugger-->{{< spotify type="track" id="4ea9w8c4ROqiZpJVhfBA3m?si=a9991ca40a9a4192" width="500" height="100" >}} 
-<!-- agassy-->{{< spotify type="track" id="2DkO9y7DB9S9nBg5u0VDoW?si=c59d6e1bfd1b4a0d" width="500" height="100" >}} 
-<!--4 walls-->{{< spotify type="track" id="2YkjXEab4USTV9uuAgC90E?si=3c4cd4105c084b32" width="500" height="100" >}} 
-<!-- stay tonight-->{{< spotify type="track" id="7Cn6R7YB4EjQkfci9DdceG?si=a736b03f31864180" width="500" height="100" >}} 
-<!-- off the record-->{{< spotify type="track" id="6TNx6kHZeVDByUNMVxkAfa?si=ee374beacee24ecc" width="500" height="100" >}} 
-<!-- girls capitalism-->{{< spotify type="track" id="2ivVS2ageitCQqnmmMaWoH?si=330369e838a74297" width="500" height="100" >}} 
+<!-- war-->{{< spotify type="track" id="0JhonNQL2ixH1JcsgEj4Hn?si=898d0e6a06ff4172" width="500" height="100" >}} 
+<!-- endless fashion-->{{< spotify type="track" id="41bmnQZoDMQdDh5zyomtW7?si=eff3543fe44d4f25" width="500" height="100" >}} 
+<!-- what a life-->{{< spotify type="track" id="587xXusqiMW9gSXkNK8Zxf?si=6ea7e6c47fde4d51" width="500" height="100" >}} 
+<!-- escape -->{{< spotify type="track" id="68lTEhMEx4MxDCJypT6bXE?si=21b7dc1b7a504930" width="500" height="100" >}} 
+<!-- more life-->{{< spotify type="track" id="4sSzYQTNq1AkfkyQMCUu7k?si=c0a979aa3f29478c" width="500" height="100" >}} 
+<!-- clarity-->{{< spotify type="track" id="60wwxj6Dd9NJlirf84wr2c?si=ab89bd0e0249466a" width="500" height="100" >}} 
+<!-- leave me like this-->{{< spotify type="track" id="6NRvZuFXn2ixp8YdzUvG5n?si=15c7f7239907402f" width="500" height="100" >}} 
+<!--where you are  -->{{< spotify type="track" id="4qDpLaFGf5ampf2DXD2TMA?si=59f0dea1c46d4ef3" width="500" height="100" >}} 
+<!-- human -->{{< spotify type="track" id="4G4patpYxsF6ovHZOX9wgR?si=5b596ba5b88144cc" width="500" height="100" >}} 
+<!-- in chicago-->{{< spotify type="track" id="5h2ED2Bw6lKWZDOuQTTSDG?si=33ef5ee16869469b" width="500" height="100" >}} 
+<!--still sleepless-->{{< spotify type="track" id="4vyG9ZhHT8MKJE5mTICMFC?si=d942df33c5764b42" width="500" height="100" >}} 
 <!-- colorful-->{{< spotify type="track" id="3eTsQnDR30FXtkyOYFazC7?si=a7b1f1bf0145427e" width="500" height="100" >}} 
 <!-- tt-->{{< spotify type="track" id="0x3fUdLjlYlO35v979kI3q?si=77d4eedd7df146bb" width="500" height="100" >}} 
-<!-- perfect night-->{{< spotify type="track" id="74X2u8JMVooG2QbjRxXwR8?si=990bcbf18470409b" width="500" height="100" >}} 
-<!-- guardian-->{{< spotify type="track" id="1hXpqrmqmlYMfpF23fb8mK?si=926bce694e4341ce" width="500" height="100" >}} 
