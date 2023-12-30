@@ -1,6 +1,6 @@
 ---
 title: "Current bangers"
-date: 2023-12-22
+date: 2023-12-29
 draft: false
 
 showDate: true
@@ -14,6 +14,6 @@ showTableOfContents: false
 showComments: false
 showRecent: false
 ---
-I converted the list into a playlist on Spotify, so it would be easier to access the songs.
+Nothing too crazy.
 
 <!-- playlist-->{{< spotify type="playlist" id="4Z0k6v2FQX17XKzh1Ky4mw?si=1e471d7368fd4b12" width="500" height="800" >}}
