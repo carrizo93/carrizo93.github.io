@@ -1,7 +1,8 @@
 ---
 Title: "The Live Utopia Experience"
-date: 2024-01-21
-draft: true
+
+date: 2024-02-03
+draft: false
 
 summary: "A quick rundown of my experience at the Travis Scott concert."
 showSummary: true
@@ -14,11 +15,18 @@ No long form recounting this time; here is my Travis Scott experience summarized
   * Chase B stalled for Travis while we were waiting for him to get on stage; he played some tracks to get the crowd fired up.
 * Stage design was nice. Jumbotron graphics were also nice.
 * I saved myself from more permanent ear damage with earplugs. It brought down the audio level from "ear-shattering loud" to just "loud". A must-have for future concerts.
-* However, I took the earplugs out for the main events: MELTDOWN and FEIN. Ear damage is acceptable for those songs.
+* However, I took the earplugs out for the main events: MELTDOWN and FEIN. Minor ear damage is acceptable for those songs.
   * He played FEIN 5 times. I thought he would play it 8 times.
 * Nightcrawler was played. Not until the main chorus unfortunately, but the beginning of the song was more than enough. My favourite song of the night.
 * Wishing that beibs in the trap was played, with a NAV appearance. Or maybe Drake pulling up. Neither happened.
+  * And it should have happened, because Travis brought out Kanye at the Orlando concert. 
 * I splurged on a tour t-shirt. Reason: "No regrets + I can make back the money on co-op" (I did).
 * Voice was only dead for one day. The plastic bottles weren't turned away by security this time, and I definitely drank a fair share of water.
 
 I think I raged pretty hard; will not forget the feeling of going absolutely crazy to Travis' greatest songs. Shoutout to my brother for getting me the tickets for Christmas.
+
+Nightcrawler, featuring my screams.
+{{< video src="/posts/The-Live-Utopia-Experience/nightcrawler.mp4" type="video/mp4" preload="auto" >}}
+
+Setlist:
+<!-- setlist-->{{< spotify type="playlist" id="59XrpI5HacS0ZnDggEFV5V?si=ab7c42b3fcc04524" width="500" height="500" >}}
