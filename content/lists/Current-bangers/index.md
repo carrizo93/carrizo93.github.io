@@ -1,6 +1,6 @@
 ---
 title: "Current bangers"
-date: 2024-03-14
+date: 2024-04-15
 draft: false
 
 showDate: true
@@ -14,6 +14,6 @@ showTableOfContents: false
 showComments: false
 showRecent: false
 ---
-James Hype is in fact, hype.
+Calvin Harris had a [fantastic set](https://www.youtube.com/watch?v=PxXAdY8G3G0) at Ultra Miami this year.
 
 <!-- playlist-->{{< spotify type="playlist" id="4Z0k6v2FQX17XKzh1Ky4mw?si=1e471d7368fd4b12" width="500" height="800" >}}
