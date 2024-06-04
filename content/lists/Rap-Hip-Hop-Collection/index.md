@@ -1,6 +1,6 @@
 ---
 title: "Rap and hip-hop collection"
-date: 2023-08-14
+date: 2024-06-04
 draft: false 
 
 showDate: true
@@ -59,9 +59,5 @@ A collection of my favourite rap songs, in an order of when I first listened to 
 <!-- too many nights-->{{< spotify type="track" id="2Hh3ETdQKrmSI3QS0hme7g" width="500" height="100" >}}
 <!-- kingdom hearts key-->{{< spotify type="track" id="0VA5FzFlysCcSG1IdOkhUb" width="500" height="100" >}}
 <!-- thank god-->{{< spotify type="track" id="1PH2MDbcBAU094DlgTIND1" width="500" height="100" >}}
-
-
-
-
-
-
+<!-- euphoria-->{{< spotify type="track" id="77DRzu7ERs0TX3roZcre7Q" width="500" height="100" >}}
+<!-- not like us-->{{< spotify type="track" id="6AI3ezQ4o3HUoP6Dhudph3" width="500" height="100" >}}
