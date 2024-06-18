@@ -10,7 +10,7 @@ showReadingTime: false
 summary: "My tier list of girl group title tracks."
 showSummary: true
 showAuthor: false
-showTableOfContents: false
+showTableOfContents: true
 showComments: false
 showRecent: false
 ---

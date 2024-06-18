@@ -6,16 +6,76 @@
     <description>Recent content in Home on Nathan Kong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Nathan Kong</copyright>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carrizo93.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Nathan Kong</copyright>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carrizo93.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://carrizo93.github.io/about/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/about/</guid>
+      <description>All about Nathan Kong.</description>
+      
+    </item>
+    
     <item>
       <title>Current bangers</title>
       <link>https://carrizo93.github.io/lists/current-bangers/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://carrizo93.github.io/lists/current-bangers/</guid>
       <description>My current top songs.</description>
       
+    </item>
+    
+    <item>
+      <title>Rap and hip-hop collection</title>
+      <link>https://carrizo93.github.io/lists/rap-hip-hop-collection/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/lists/rap-hip-hop-collection/</guid>
+      <description>A collection of my favourite rap songs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/lists/rap-hip-hop-collection/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>The Live Utopia Experience</title>
+      <link>https://carrizo93.github.io/blog/the-live-utopia-experience/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/blog/the-live-utopia-experience/</guid>
+      <description>A quick rundown of my experience at the Travis Scott concert.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/blog/the-live-utopia-experience/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>The 1A Experience</title>
+      <link>https://carrizo93.github.io/blog/the-1a-experience/</link>
+      <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/blog/the-1a-experience/</guid>
+      <description>Taking a look back at 1A, my first term of university.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/blog/the-1a-experience/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Summer 2023 release ranking</title>
+      <link>https://carrizo93.github.io/blog/reviewing-2023-summer-k-pop/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/blog/reviewing-2023-summer-k-pop/</guid>
+      <description>Ranking every girl group/soloist release from summer 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/blog/reviewing-2023-summer-k-pop/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>The Utopia Experience</title>
+      <link>https://carrizo93.github.io/blog/the-utopia-experience/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrizo93.github.io/blog/the-utopia-experience/</guid>
+      <description>Revisiting the night Travis Scott&amp;rsquo;s &amp;lsquo;Utopia&amp;rsquo; was released.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/blog/the-utopia-experience/feature.jpg" />
     </item>
     
     <item>
@@ -39,32 +99,12 @@
     </item>
     
     <item>
-      <title>Rap and hip-hop collection</title>
-      <link>https://carrizo93.github.io/lists/rap-hip-hop-collection/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrizo93.github.io/lists/rap-hip-hop-collection/</guid>
-      <description>A collection of my favourite rap songs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://carrizo93.github.io/lists/rap-hip-hop-collection/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://carrizo93.github.io/about/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrizo93.github.io/about/</guid>
-      <description>All about Nathan Kong.</description>
-      
-    </item>
-    
-    <item>
       <title>Credits</title>
       <link>https://carrizo93.github.io/credits/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://carrizo93.github.io/credits/</guid>
-      <description>A page dedicated to those who&amp;rsquo;s work I&amp;rsquo;ve used on this website.</description>
+      <description>A page dedicated to those whose work I use on this website.</description>
       
     </item>
     
