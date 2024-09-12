@@ -1,7 +1,7 @@
 ---
 title: "Post 1B update"
 date: 2024-09-02
-draft: true
+draft: false
 
 summary: "A quick recap of my 1B term."
 showSummary: true
