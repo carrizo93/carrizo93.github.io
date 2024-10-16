@@ -1,6 +1,6 @@
 ---
 title: "Current bangers"
-date: 2024-06-04
+date: 2024-10-16
 draft: false
 
 showDate: true
@@ -14,6 +14,6 @@ showTableOfContents: false
 showComments: false
 showRecent: false
 ---
-Boiler Room was fun. Can't wait to see myself in the background of Ahadadream's set.
+So I switched to Apple Music. And I got kinda busy so I haven't updated this in a while. Here we are with some melodic dubstep.
 
-<!-- playlist-->{{< spotify type="playlist" id="4Z0k6v2FQX17XKzh1Ky4mw?si=1e471d7368fd4b12" width="500" height="800" >}}
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/ca/playlist/current-bangers/pl.u-xlyNEdNCkAAeKJ5"></iframe>

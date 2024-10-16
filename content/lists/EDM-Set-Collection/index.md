@@ -20,7 +20,7 @@ When I don't wan't to listen to my playlists while studying, I usually find some
 # Sets 
 Primarily house/dance sets; haven't really dug deep into other genres yet. 
 
-## Gryffin @ EDC Las Vegas 2024
+## Gryffin @ EDC Las Vegas, 2024
 <iframe width="500" height="281"
 src="https://www.youtube.com/embed/R368B7FBUkc">
 </iframe>
@@ -45,7 +45,7 @@ An excellent mix of every concievable EDM subgenre. Probably my favourite set ou
 <br />
 **57:00** Gryffin & Illenium ft. Daya vs. DIM3NSION & Daxson - Feel Good vs. Ardora
 
-## Calvin Harris @ Ultra Miami 2024
+## Calvin Harris @ Ultra Miami, 2024
 
 <iframe width="500" height="281"
 src="https://www.youtube.com/embed/PxXAdY8G3G0">
@@ -65,7 +65,7 @@ Calvin Harris has had an (in my opinion) very underrated run throughout the 2010
 <br />
 **1:11:07** Calvin Harris & Ellie Goulding vs Hardwell - Miracle vs Miracle (Hardwell Remix)
 
-## John Summit @ Savaya Bali 2023
+## John Summit @ Savaya Bali, 2023
 
 <iframe width="500" height="281"
 src="https://www.youtube.com/embed/S1L8cNyfXT4">
