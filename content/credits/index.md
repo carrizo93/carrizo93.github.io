@@ -15,6 +15,7 @@ showPagination: false
 ---
 
 I was inspired to build this website by my longtime friend Alex Zhu, a SE '27 student at the University of Waterloo. Check out [his website here!](https://probablyalexzhu.github.io/)
+
 {{< github repo="probablyalexzhu/probablyalexzhu.github.io" >}}
 
 The doodle at the top of the menu is drawn by my friend Samantha Lee, studying Graphic Design at OCAD. Please check out her [Instagram](https://www.instagram.com/mirikowo__/)!

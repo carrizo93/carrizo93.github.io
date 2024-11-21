@@ -11,7 +11,9 @@ showTableOfContents: true
 ---
 My portfolio that takes a technical dive into my PCB designs. If applicable, Github links are hyperlinked at the bottom of the project. Click on an image to expand it.
 
-For some reason, sometimes the images will block the text; this is a Hugo issue, please refresh the page to fix it.
+Sometimes the images don't render properly and block the text; this is a Hugo issue. Please refresh the page to fix it.
+
+ <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). --->  
 
 ## Fine sun sensor
 
