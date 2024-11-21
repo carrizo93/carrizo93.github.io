@@ -1,6 +1,6 @@
 ---
 title: About me 
-date: 2024-06-04
+date: 2024-01-01
 showDate: false
 showWordCount: false
 showReadingTime: false
@@ -16,14 +16,14 @@ showPagination: false
 
 ## Hello! My name is Nathan Kong.
 
-I'm a first-year Electrical Engineering student at the University of Waterloo, who is curious about the world of PCB/hardware design.
+I'm a second-year Electrical Engineering student at the University of Waterloo, who is currently delving into advanced concepts and techniques in PCB design. 
 
-Since joining Electrium Mobility when I arrived in Waterloo, I've designed a wide variety of PCBs, then soldered these PCBs into fully functional components we use in our e-vehicles. Over the Spring 2024 term, I will assemble the electrical components for our carbon fibre skateboard, while beginning the design of a custom electronic speed controller. I look forward to further devloping my hardware and electrical skills.
+Right now, I'm working in Singapore for the space startup [GALAMAD AEROSPACE](https://galamad.space/), where I am helping design and prototype space electronics. My work has included the design of a low-cost coarse sun sensor module, the redesign of a fine sun sensor module, and the installation of PCB manufacturing capabilities in our office. I have taken the next step in my electronics design career through GALAMAD, and I aspire to keep progressing forward.
 
-Over my first work-term at Hatch as a Power Co-op under the Nuclear business unit, I contributed to a numerous amount of unique projects. From the handling and storage of aging nuclear waste systems, to impacting First Nations engineering capacity development in Atlantic Canada, I absorbed the inner workings of engineering consulting and project management.
+Since joining [Electrium Mobility](https://electriummobility.com/) when I arrived in Waterloo, I've participated in PCB design for our electrical projects, such as the e-scooter, carber fibre skateboard, and custom electronic speed controller. Over my first work-term at [Hatch](https://www.hatch.com/), I worked under the [Nuclear business unit](https://www.hatch.com/en/Expertise/Energy/NuclearPower). From the handling and storage of aging nuclear waste systems, to impacting First Nations engineering capacity development in Atlantic Canada, I absorbed project managment skills and the world of consulting + the energy sector.
 
-In my free time, I... listen to music. Big shocker, I know. But while I listen to music, I'm not afraid to get my hands dirty. I've built & modded my two keyboards (newest pictured below), and am currently in the process of designing a macropad for the Kailh Big Switch using my PCB design skills. Lastly, I play collegiate League of Legends for Waterloo, objectively(!) make good food, and collect stickers.
+In my free time, I love listening to music. Name an artist or genre, and I've probably listened to them. My main genres are EDM, hip-hop, and kpop. I also design keyboards: I'm in the middle of designing my first fullsize keyboard, the [sg75](https://github.com/carrizo93/sg75). Lastly, I play collegiate League of Legends for Waterloo, objectively(!) make good food, and collect stickers.
 
 ![My current keyboard](keyboard.jpg "JRIS65, GMK Bento, Gateron CJ Blue Linear Switches (lubed + filmed), TX 1.2mm Stabilizers")
 
-Want to get my opinion on an album? Question about my keyboard? Please feel free to reach out about anything!
+Want to get my opinion on an album? Question about my keyboard? Please feel free to reach out via [email](mailto:nathankong93@gmail.com) or [LinkedIn](www.linkedin.com/in/nathankong93)!

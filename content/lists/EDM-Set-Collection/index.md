@@ -1,6 +1,6 @@
 ---
 title: "EDM set/mix collection"
-date: 2024-07-27
+date: 2024-11-21
 draft: false 
 
 showDate: true
@@ -18,7 +18,134 @@ showRecent: false
 When I don't wan't to listen to my playlists while studying, I usually find some 45+ minute long mixes or sets on YouTube to listen to. And if I like them, I keep listening to them. This is a collection of the most memorable sets/mixes I've found.
 
 # Sets 
-Primarily house/dance sets; haven't really dug deep into other genres yet. 
+A mish mash of tech house, progressive house, DnB, (melodic) dubstep, and techno.
+
+## WORSHIP (Sub Focus, Dimension, Culture Shock, 1991) @ EDC Las Vegas, 2024
+<iframe width="500" height="281"
+src="https://www.youtube.com/embed/1tnvfJTu44Q">
+</iframe>
+
+I hadn't really explored DnB outside of Chase & Status before listening to this set; I am now certainly a huge fan.
+
+<u>Notable timestamps:</u>
+<br />
+**03:00** Marlon Hoffstadt - It's That Time (Dimension Remix) w/ Tantrum Desire - Cluster w/ Sub Focus - Rock It (Wilkinson Remix)
+<br />
+**11:05** Culture Shock - Discotheque w/ Wilkinson & Sub Focus ft. Tom Cane - Illuminate
+<br />
+**25:21** Mason vs. Princess Superstar - Perfect (Exceeder) (1991 Remix) w/ Dom Dolla ft. Clementine Douglas - Miracle Maker (Subsonic Bootleg)
+<br />
+**45:51** MK & Dom Dolla - Rhyme Dust (Dimension Remix) w/ Jazzy - Feel It (1991 Remix)
+<br />
+**54:08** John Summit & Sub Focus ft. Julia Church - Go Back (D&B VIP)
+<br />
+**1:15:59** Kevin de Vries & Mau P - Metro (Dimension Remix)
+<br />
+**1:23:53** Sub Focus & Dimension ft. Jo Hill - Ready To Fly
+
+## Swedish House Mafia @ Tomorrowland Belgium, 2024
+<iframe width="500" height="281"
+src="https://www.youtube.com/embed/dSK13X9oGi8">
+</iframe>
+
+The exam walk hype music of choice for 1B. First ten minutes had me ready to run through a wall (and believe I was gonna crush the exam). If only it was on Apple Music.
+
+<u>Notable timestamps:</u>
+<br />
+**0:12** Steve Angello ft. The Presets - Remember (Intro Edit)
+<br />
+**2:51** Swedish House Mafia ft. Tinie Tempah - Miami 2 Ibiza
+<br />
+**5:40** Swedish House Mafia ft. Pharrell vs. Nari & Milani - One (Your Name) vs. Atom (Swedish House Mafia Bootleg)
+<br />
+**25:50** Steve Angello & Dimitri Vangelis & Wyman vs. Axwell Λ Ingrosso & Kristoffer Fogelmark - Payback vs. More Than You Know (Swedish House Mafia Mashup)
+<br />
+**27:45** Booka Shade vs. Ivan Gough & Feenixpawl & Axwell ft. Georgi Kay - Love Inc vs. In My Mind (Axwell Mashup) w/ Axwell Λ Ingrosso ft. Trevor Guthrie - Dreamer (Acappella)
+<br />
+**33:14** Swedish House Mafia - Ray Of Solar w/ Fred again.. & Swedish House Mafia ft. Future - Turn On The Lights Again..
+
+## Alesso @ Tomorrowland Belgium, 2024
+<iframe width="500" height="281"
+src="https://www.youtube.com/embed/07p-uHtAaOo">
+</iframe>
+
+A throwback set of early 2010s classics. Prepare to be surprised by a certain driver in the middle of the set. 
+
+<u>Notable timestamps:</u>
+<br />
+**24:07** KAAZE ft. Alina Pozi - Papi w/ The Prodigy - Smack My Bitch Up
+<br />
+**29:15** Yes - Owner of a Lonely Heart (Alesso & John Alto Remix)
+<br />
+**37:05** David Guetta & Alesso - Never Going Home
+<br />
+**40:15** Gotye ft. Kimbra - Somebody That I Used To Know (SIDEPIECE Treat)
+
+## ILLENIUM @ EDC Las Vegas, 2024
+<iframe width="500" height="281"
+src="https://www.youtube.com/embed/_TMbmpvx5ZY">
+</iframe>
+
+Although I don't reeeeeally like traditional dubstep, ILLENIUM's melodic hits are fun to *lightly* head bang to.
+
+<u>Notable timestamps:</u>
+<br />
+**0:00** ILLENIUM - Crawl Outta Love vs. Luv Me A Little vs. Sideways vs. All That Really Matters vs. Shivering vs. Back To You vs. Feel Something (ILLENIUM Intro)
+<br />
+**3:17** ILLENIUM & Excision ft. Shallows - Gold (Stupid Love) vs Dabin & Kai Wachi & Lø Spirit - Hollow
+<br />
+**17:02** ILLENIUM & Kameron Alexander & Sam Lamar vs. John Summit & Hayla - Pray vs. Where You Are (ILLENIUM Edit)
+<br />
+**28:53** ILLENIUM ft. Spiritbox - Shivering
+<br />
+**55:51** Benny Benassi - Cinema (feat. Gary Go) [Skrillex Remix] w/ ILLENUM & Dillon Francis - Don't Let Me Let Go w/ ILLENUM & Dillon Francis - Don't Let Me Let Go (Zomboy Remix) [SLICK & Netgate Edit]
+<br />
+**1:02:59** ILLENIUM & Jon Bellion & Said The Sky & Annika Wells & Matt Maeson - Good Things Fall Apart vs. Sad Songs vs. Nightlight vs. Heavenly Side (ILLENIUM Edit)
+
+## Maddix @ EDC Las Vegas, 2024
+<iframe width="500" height="281"
+src="https://www.youtube.com/embed/wMpD8uAtvYM">
+</iframe>
+
+I got to experience this insane intro live at his Singapore set. Needless to say, my recording sounds a little ugly.
+
+<u>Notable timestamps:</u>
+<br />
+**0:47** Maddix, Hardwell ft. Luciana - Acid (VIP Remix)
+<br /> 
+**8:36** John Summit ft. Hayla - Where You Are (John Summit & Maddix Remix)
+<br /> 
+**10:58** Maddix ft. Fēlēs - My Gasoline
+<br /> 
+**26:28** Dom Dolla ft. Clementine Douglas - Miracle Maker (Maddix Remix)
+<br /> 
+**35:06** Maddix - Heute Nacht
+<br />  
+**38:31** David Guetta & Benny Benassi - Satisfaction (Hardwell & Maddix Remix) w/ Delerium, Silence (DJ Tiësto's In Search Of Sunrise Remix) [Maddix Edit]
+<br /> 
+**49:15** Maddix, Da Hool & Dimitri Vegas & Like Mike - Meet Her At The Love Parade (feat. Kiki Solvej)
+
+## Gryffin DJ Set @ Kauai, Hawaii, 2023
+
+<iframe width="500" height="281"
+src="https://www.youtube.com/embed/0fStWP79Z5A">
+</iframe>
+
+Very nice chill vibe that strays away from Gryffin's typical energetic sets.
+
+<u>Notable timestamps:</u>
+<br />
+**13:20** Gryffin & Bipolar Sunshine - Whole Heart (Last Heroes Remix)
+<br />
+**16:35** Gryffin & Matt Maeson - Lose Your Love
+<br />
+**19:02** Gryffin ft. Elley Duhe - Forever (VIP)
+<br />
+**33:15** Gryffin & salem ilese - Glitch In The Simulation
+<br />
+**39:23** Gryffin & Jason Ross ft. Calle Lehmann - After You
+<br />
+**42:03** Gryffin & Illenium ft. Daya - Feel Good w/ John Martin - Cry
 
 ## Gryffin @ EDC Las Vegas, 2024
 <iframe width="500" height="281"
