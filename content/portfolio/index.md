@@ -13,14 +13,25 @@ My portfolio that takes a technical dive into my PCB designs. If applicable, Git
 
 Sometimes the images don't render properly and block the text; this is a Hugo issue. Please refresh the page to fix it.
 
+{{< alert "link" >}}
+Quick links:
+[Resume](https://carrizo93.github.io/resume/),
+[Email](mailto:nathankong93@gmail.com),
+[LinkedIn](https://linkedin.com/in/nathankong93),
+[Github](https://github.com/carrizo93)
+{{< /alert >}}
+
+<!--
 {{< keywordList >}}
 {{< keyword icon="list">}} [Resume](https://carrizo93.github.io/resume/) {{< /keyword >}}
 {{< keyword icon="envelope" >}} [Email](mailto:nathankong93@gmail.com) {{< /keyword >}}
-{{< keyword icon="linkedin" >}} [Linkedin](https://linkedin.com/in/nathankong93) {{< /keyword >}}
+{{< keyword icon="linkedin" >}} [LinkedIn](https://linkedin.com/in/nathankong93) {{< /keyword >}}
 {{< keyword icon="github" >}} [Github](https://github.com/carrizo93) {{< /keyword >}}
 {{< /keywordList >}}
 
- <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). --->  
+-->
+
+ <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). -->  
 
 ## Fine sun sensor
 
