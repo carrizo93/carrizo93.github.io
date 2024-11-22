@@ -13,6 +13,13 @@ My portfolio that takes a technical dive into my PCB designs. If applicable, Git
 
 Sometimes the images don't render properly and block the text; this is a Hugo issue. Please refresh the page to fix it.
 
+{{< keywordList >}}
+{{< keyword icon="list">}} [Resume](https://carrizo93.github.io/resume/) {{< /keyword >}}
+{{< keyword icon="envelope" >}} [Email](mailto:nathankong93@gmail.com) {{< /keyword >}}
+{{< keyword icon="linkedin" >}} [Linkedin](https://linkedin.com/in/nathankong93) {{< /keyword >}}
+{{< keyword icon="github" >}} [Github](https://github.com/carrizo93) {{< /keyword >}}
+{{< /keywordList >}}
+
  <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). --->  
 
 ## Fine sun sensor
@@ -43,7 +50,7 @@ Sometimes the images don't render properly and block the text; this is a Hugo is
 * Amplifies the current output from photodiode using a transimpedance amplifier, then converts the signal to digital output with an ADC
 * Communicated to satellite computer through I2C, which takes the combined outputs from all 8-9 sensor modules to determine the attitude/orientation of the satellite relative to the sun
 * Manufactured the sensor completely in house, starting with a plain copper board, laser cutting out two modules and their electrical connections, finishing with a solder mask and low budget silkscreen, and carefully hand assembling the board
-* To be manufacutured by a factory with a new connector
+* To be manufactured by a factory with a new connector
 
 ## E-skateboard remote control
 
