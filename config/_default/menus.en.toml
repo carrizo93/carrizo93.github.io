@@ -28,7 +28,7 @@
 [[main]]
   name = "Portfolio"
   pageRef = "portfolio"
-  weight = 10  
+  weight = 20  
 
 [[main]]
   name = "Resume"
@@ -38,7 +38,7 @@
 [[main]]
   name = "Credits"
   pageRef = "credits"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Parent"

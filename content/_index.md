@@ -7,5 +7,7 @@ After listening to music (maybe a little too seriously) for 4 years, I've formed
 Aside from listening to music, I design keyboards, play collegiate e-sports, and love cooking. Learn more about me below!
 
 {{< button href="about" target="_self" >}} About {{< /button >}}
-‎  ‎ 
+‎  ‎
+{{< button href="resume" target="_self" >}} Resume {{< /button >}}
+‎  ‎
 {{< button href="portfolio" target="_self" >}} Portfolio {{< /button >}}
