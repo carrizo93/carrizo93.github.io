@@ -34,9 +34,7 @@ Once again, I found myself listening to more YouTube sets than songs during 1B f
 
 ### Swedish House Mafia @ Tomorrowland, 2024
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/dSK13X9oGi8">
-</iframe>
+{{< youtubeLite id="dSK13X9oGi8" >}}
 
 This term's pre-exam walk hype music. I understand why SHM are so good now.
 
@@ -56,9 +54,7 @@ This term's pre-exam walk hype music. I understand why SHM are so good now.
 
 ### Alesso @ Tomorrowland, 2024
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/07p-uHtAaOo">
-</iframe>
+{{< youtubeLite id="07p-uHtAaOo" >}}
 
 Less timestamps for this one mostly because its just a pretty high quality set. I would've timestamped almost the entire set.
 
@@ -75,9 +71,7 @@ Less timestamps for this one mostly because its just a pretty high quality set. 
 
 ### Gryffin DJ Set @ Kauai, Hawaii, 2023
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/0fStWP79Z5A">
-</iframe>
+{{< youtubeLite id="0fStWP79Z5A" >}}
 
 Very nice chill vibe that strays away from Gryffin's typical energetic sets.
 
@@ -97,9 +91,7 @@ Very nice chill vibe that strays away from Gryffin's typical energetic sets.
 
 ### Fred Again Live from Arun's Roof, London, 2024
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/6MAzUT1YhWE">
-</iframe>
+{{< youtubeLite id="6MAzUT1YhWE" >}}
 
 Honestly, I don't remember anything notable to timestamp. But this is a very nice set to listen to.
 

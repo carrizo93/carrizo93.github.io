@@ -13,23 +13,12 @@ My portfolio that takes a technical dive into my PCB designs. If applicable, Git
 
 Sometimes the images don't render properly and block the text; this is a Hugo issue. Please refresh the page to fix it.
 
-{{< alert "link" >}}
-Quick links:
-[Resume](https://carrizo93.github.io/resume/),
-[Email](mailto:nathankong93@gmail.com),
-[LinkedIn](https://linkedin.com/in/nathankong93),
-[Github](https://github.com/carrizo93)
-{{< /alert >}}
-
-<!--
 {{< keywordList >}}
-{{< keyword icon="list">}} [Resume](https://carrizo93.github.io/resume/) {{< /keyword >}}
-{{< keyword icon="envelope" >}} [Email](mailto:nathankong93@gmail.com) {{< /keyword >}}
-{{< keyword icon="linkedin" >}} [LinkedIn](https://linkedin.com/in/nathankong93) {{< /keyword >}}
-{{< keyword icon="github" >}} [Github](https://github.com/carrizo93) {{< /keyword >}}
+{{< keyword icon="list">}} [<span style="color:#1e293b"> Resume </span>](https://carrizo93.github.io/resume/) {{< /keyword >}}
+{{< keyword icon="envelope" >}} [<span style="color:#1e293b"> Email </span>](mailto:nathankong93@gmail.com) {{< /keyword >}}
+{{< keyword icon="linkedin" >}} [<span style="color:#1e293b"> LinkedIn </span>](https://linkedin.com/in/nathankong93) {{< /keyword >}}
+{{< keyword icon="github" >}} [<span style="color:#1e293b"> Github </span>](https://github.com/carrizo93) {{< /keyword >}}
 {{< /keywordList >}}
-
--->
 
  <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). -->  
 

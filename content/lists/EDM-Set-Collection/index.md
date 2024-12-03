@@ -18,12 +18,12 @@ showRecent: false
 When I don't wan't to listen to my playlists while studying, I usually find some 45+ minute long mixes or sets on YouTube to listen to. And if I like them, I keep listening to them. This is a collection of the most memorable sets/mixes I've found.
 
 # Sets 
+
 A mish mash of tech house, progressive house, DnB, (melodic) dubstep, and techno.
 
 ## WORSHIP (Sub Focus, Dimension, Culture Shock, 1991) @ EDC Las Vegas, 2024
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/1tnvfJTu44Q">
-</iframe>
+
+{{< youtubeLite id="1tnvfJTu44Q" >}}
 
 I hadn't really explored DnB outside of Chase & Status before listening to this set; I am now certainly a huge fan.
 
@@ -44,9 +44,8 @@ I hadn't really explored DnB outside of Chase & Status before listening to this 
 **1:23:53** Sub Focus & Dimension ft. Jo Hill - Ready To Fly
 
 ## Swedish House Mafia @ Tomorrowland Belgium, 2024
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/dSK13X9oGi8">
-</iframe>
+
+{{< youtubeLite id="dSK13X9oGi8" >}}
 
 The exam walk hype music of choice for 1B. First ten minutes had me ready to run through a wall (and believe I was gonna crush the exam). If only it was on Apple Music.
 
@@ -65,9 +64,8 @@ The exam walk hype music of choice for 1B. First ten minutes had me ready to run
 **33:14** Swedish House Mafia - Ray Of Solar w/ Fred again.. & Swedish House Mafia ft. Future - Turn On The Lights Again..
 
 ## Alesso @ Tomorrowland Belgium, 2024
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/07p-uHtAaOo">
-</iframe>
+
+{{< youtubeLite id="07p-uHtAaOo" >}}
 
 A throwback set of early 2010s classics. Prepare to be surprised by a certain driver in the middle of the set. 
 
@@ -82,9 +80,8 @@ A throwback set of early 2010s classics. Prepare to be surprised by a certain dr
 **40:15** Gotye ft. Kimbra - Somebody That I Used To Know (SIDEPIECE Treat)
 
 ## ILLENIUM @ EDC Las Vegas, 2024
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/_TMbmpvx5ZY">
-</iframe>
+
+{{< youtubeLite id="_TMbmpvx5ZY" >}}
 
 Although I don't reeeeeally like traditional dubstep, ILLENIUM's melodic hits are fun to *lightly* head bang to.
 
@@ -103,9 +100,8 @@ Although I don't reeeeeally like traditional dubstep, ILLENIUM's melodic hits ar
 **1:02:59** ILLENIUM & Jon Bellion & Said The Sky & Annika Wells & Matt Maeson - Good Things Fall Apart vs. Sad Songs vs. Nightlight vs. Heavenly Side (ILLENIUM Edit)
 
 ## Maddix @ EDC Las Vegas, 2024
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/wMpD8uAtvYM">
-</iframe>
+
+{{< youtubeLite id="wMpD8uAtvYM" >}}
 
 I got to experience this insane intro live at his Singapore set. Needless to say, my recording sounds a little ugly.
 
@@ -127,9 +123,7 @@ I got to experience this insane intro live at his Singapore set. Needless to say
 
 ## Gryffin DJ Set @ Kauai, Hawaii, 2023
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/0fStWP79Z5A">
-</iframe>
+{{< youtubeLite id="0fStWP79Z5A" >}}
 
 Very nice chill vibe that strays away from Gryffin's typical energetic sets.
 
@@ -148,9 +142,8 @@ Very nice chill vibe that strays away from Gryffin's typical energetic sets.
 **42:03** Gryffin & Illenium ft. Daya - Feel Good w/ John Martin - Cry
 
 ## Gryffin @ EDC Las Vegas, 2024
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/R368B7FBUkc">
-</iframe>
+
+{{< youtubeLite id="R368B7FBUkc" >}}
 
 An excellent mix of every concievable EDM subgenre. Probably my favourite set out of the bunch; you can tell by how many timestamps there are.
 
@@ -174,9 +167,7 @@ An excellent mix of every concievable EDM subgenre. Probably my favourite set ou
 
 ## Calvin Harris @ Ultra Miami, 2024
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/PxXAdY8G3G0">
-</iframe>
+{{< youtubeLite id="PxXAdY8G3G0" >}}
 
 Calvin Harris has had an (in my opinion) very underrated run throughout the 2010s, and this set just proves his long standing dominance with classic after classic.
 
@@ -194,9 +185,7 @@ Calvin Harris has had an (in my opinion) very underrated run throughout the 2010
 
 ## John Summit @ Savaya Bali, 2023
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/S1L8cNyfXT4">
-</iframe>
+{{< youtubeLite id="S1L8cNyfXT4" >}}
 
 A fun, calm set that screams summertime chillout accompanied by beautiful sunset visuals.
 
@@ -218,9 +207,7 @@ A fun, calm set that screams summertime chillout accompanied by beautiful sunset
 
 ## John Summit @ Vail Mountain Colorado, 2024
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/p2JHVzkYtEg">
-</iframe>
+{{< youtubeLite id="p2JHVzkYtEg" >}}
 
 A more energetic set with some sick tracks.
 
@@ -242,9 +229,7 @@ A more energetic set with some sick tracks.
 
 ## John Summit @ EDC Las Vegas, 2022
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/B5RWQw3N47E">
-</iframe>
+{{< youtubeLite id="B5RWQw3N47E" >}}
 
 If I'm being honest, this is far from my favourite John Summit set. But it was the one that really got me into John Summit back in 1A finals. And look where I am now.
 
@@ -268,9 +253,7 @@ If I'm being honest, this is far from my favourite John Summit set. But it was t
 
 ## Mau P @ EDC Las Vegas, 2024
 
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/WEcImcXf6C0">
-</iframe>
+{{< youtubeLite id="WEcImcXf6C0" >}}
 
 The mixing is a little weird on the YouTube video, but nevertheless Mau P delivers the bounce in this set. (Thank god for Apple Music.)
 
@@ -300,31 +283,25 @@ The mixing is a little weird on the YouTube video, but nevertheless Mau P delive
 I'm lazy and I don't want to timestamp the mixes. But trust me, they're good. These mixes are house, UK garage, and jungle/breakcore/drum n bass. 
 
 ## Shinjuku House Digging, tsumi
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/PYfhbYIxBxE">
-</iframe>
+
+{{< youtubeLite id="PYfhbYIxBxE" >}}
 
 ## the taste of ukg, tsumi
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/SSLiA0hu8Eg">
-</iframe>
+
+{{< youtubeLite id="SSLiA0hu8Eg" >}}
 
 ## cassis orange house music, tsumi
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/dihIHLhr2J4">
-</iframe>
+
+{{< youtubeLite id="dihIHLhr2J4" >}}
 
 ## UK Garage Mix, OCT
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/DjDWKh2bBzs">
-</iframe>
+
+{{< youtubeLite id="DjDWKh2bBzs" >}}
 
 ## ethereal breaks 3, papa zen
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/u9o1OYX5UOQ">
-</iframe>
+
+{{< youtubeLite id="u9o1OYX5UOQ" >}}
 
 ## Heaven/EXE, DUSQK
-<iframe width="500" height="281"
-src="https://www.youtube.com/embed/z9e8CPULjW4">
-</iframe>
+
+{{< youtubeLite id="z9e8CPULjW4" >}}

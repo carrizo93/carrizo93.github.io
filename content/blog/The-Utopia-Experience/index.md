@@ -3,7 +3,7 @@ Title: "The Utopia Experience"
 date: 2023-08-28
 draft: false
 
-summary: "Revisiting the night Travis Scott's 'Utopia' was released."
+summary: "Revisiting the night Utopia was released."
 showSummary: true
 ---
 
