@@ -11,7 +11,7 @@ showTableOfContents: true
 ---
 My portfolio that takes a technical dive into my PCB designs. If applicable, Github links are hyperlinked at the bottom of the project. Click on an image to expand it.
 
-Sometimes the images don't render properly and block the text; this is a Hugo issue. Please refresh the page to fix it.
+ <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). -->  
 
 {{< keywordList >}}
 {{< keyword icon="list">}} [<span style="color:#1e293b"> Resume </span>](https://carrizo93.github.io/resume/) {{< /keyword >}}
@@ -20,14 +20,15 @@ Sometimes the images don't render properly and block the text; this is a Hugo is
 {{< keyword icon="github" >}} [<span style="color:#1e293b"> Github </span>](https://github.com/carrizo93) {{< /keyword >}}
 {{< /keywordList >}}
 
- <!-- For a better viewing experience, [I suggest viewing this on my website](https://carrizo93.github.io/portfolio/). -->  
+
 
 ## Fine sun sensor
 
 {{< gallery >}}
-<img src="fsspcb.jpg" alt="Routing and PCB design." class="grid-w66" />
-<img src="fss3df.jpg" alt="Board front view." class="grid-w33" />
-<img src="fss3db.jpg" alt="Board back view." class="grid-w33" />
+
+<img src="fssback.jpg" alt="Board front view." class="grid-w66" />
+<img src="fssfront.jpg" alt="Board back view." class="grid-w33" />
+<img src="fsspcb.jpg" alt="Routing and PCB design." class="grid-w33" />
 {{< /gallery >}}
 
 * Reverse engineered an existing fine sun sensor + magnetometer PCB design with only the gerbers and bill of materials to recreate the schematic
@@ -36,21 +37,19 @@ Sometimes the images don't render properly and block the text; this is a Hugo is
     * Updated improper 6-layer stackup to 8-layers, constructing a proper stackup with orthogonal trace routing
     * Opted for buried via usage for traces directly underneath the fine sun sensor
     * Isolated digital power plane from the rest of the board 
-* To be manufactured and assembled by a factory
 
 ## Coarse sun sensor
 
-{{< gallery >}}
+{{< gallery >}}csssch
 <img src="cssmanufactured.jpg" alt="Manufactured board." class="grid-w66" />
-<img src="csssch.jpg" alt="Schematic design." class="grid-w33" />
-<img src="csspcb.jpg" alt="Routing and PCB design." class="grid-w33" />
+<img src="csspcb.jpg" alt="Schematic design." class="grid-w33" />
+<img src="csssch.jpg" alt="Routing and PCB design." class="grid-w33" />
 {{< /gallery >}}
 
 * Architected, designed and assembled a coarse sun sensor PCB for use on a satellite, saving nearly 99% on production costs by designing in-house compared to purchasing from a third-party seller
 * Amplifies the current output from photodiode using a transimpedance amplifier, then converts the signal to digital output with an ADC
 * Communicated to satellite computer through I2C, which takes the combined outputs from all 8-9 sensor modules to determine the attitude/orientation of the satellite relative to the sun
 * Manufactured the sensor completely in house, starting with a plain copper board, laser cutting out two modules and their electrical connections, finishing with a solder mask and low budget silkscreen, and carefully hand assembling the board
-* To be manufactured by a factory with a new connector
 
 ## E-skateboard remote control
 

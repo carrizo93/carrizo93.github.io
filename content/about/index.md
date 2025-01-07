@@ -18,7 +18,7 @@ showPagination: false
 
 I'm a second-year Electrical Engineering student at the University of Waterloo, who is currently delving into advanced concepts and techniques in PCB design. 
 
-Right now, I'm working in Singapore for the space startup [GALAMAD AEROSPACE](https://galamad.space/), where I am helping design and prototype space electronics. My work has included the design of a low-cost coarse sun sensor module, the redesign of a fine sun sensor module, and the installation of PCB manufacturing capabilities in our office. I have taken the next step in my electronics design career through GALAMAD, and I aspire to keep progressing forward.
+I just wrapped up my internship in Singapore for the space startup [GALAMAD AEROSPACE](https://galamad.space/), where I am helping design and prototype space electronics. My work has included the design of a low-cost coarse sun sensor module, the redesign of a fine sun sensor module, and the installation of PCB manufacturing capabilities in our office. I have taken the next step in my electronics design career through GALAMAD, and I aspire to keep progressing forward.
 
 Since joining [Electrium Mobility](https://electriummobility.com/) when I arrived in Waterloo, I've participated in PCB design for our electrical projects, such as the e-scooter, carber fibre skateboard, and custom electronic speed controller. Over my first work-term at [Hatch](https://www.hatch.com/), I worked under the [Nuclear business unit](https://www.hatch.com/en/Expertise/Energy/NuclearPower). From the handling and storage of aging nuclear waste systems, to impacting First Nations engineering capacity development in Atlantic Canada, I absorbed project managment skills and the world of consulting + the energy sector.
 
