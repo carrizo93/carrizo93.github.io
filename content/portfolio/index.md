@@ -16,7 +16,7 @@ My portfolio that takes a technical dive into my PCB designs. If applicable, Git
 {{< keywordList >}}
 {{< keyword icon="list">}} [<span style="color:#1e293b"> Resume </span>](https://carrizo93.github.io/resume/) {{< /keyword >}}
 {{< keyword icon="envelope" >}} [<span style="color:#1e293b"> Email </span>](mailto:nathankong93@gmail.com) {{< /keyword >}}
-{{< keyword icon="linkedin" >}} [<span style="color:#1e293b"> LinkedIn </span>](https://linkedin.com/in/nathankong93) {{< /keyword >}}
+{{< keyword icon="linkedin" >}} [<span style="color:#1e293b"> LinkedIn </span>](https://linkedin.com/in/nkong) {{< /keyword >}}
 {{< keyword icon="github" >}} [<span style="color:#1e293b"> Github </span>](https://github.com/carrizo93) {{< /keyword >}}
 {{< /keywordList >}}
 
@@ -40,7 +40,7 @@ My portfolio that takes a technical dive into my PCB designs. If applicable, Git
 
 ## Coarse sun sensor
 
-{{< gallery >}}csssch
+{{< gallery >}}
 <img src="cssmanufactured.jpg" alt="Manufactured board." class="grid-w66" />
 <img src="csspcb.jpg" alt="Schematic design." class="grid-w33" />
 <img src="csssch.jpg" alt="Routing and PCB design." class="grid-w33" />
